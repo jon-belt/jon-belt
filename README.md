@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jonathan Belt 👋
+
+**Recent Computer Science Graduate from The University of East Anglia**
 
 <!--
 **jon-belt/jon-belt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
