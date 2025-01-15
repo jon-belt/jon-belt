@@ -1,18 +1,17 @@
-## Jonathan Belt 👋
+## Jonathan Belt
 
-**Recent Computer Science Graduate from The University of East Anglia**
+**`Recent Computer Science Graduate from The University of East Anglia`**
 
-<!--
-**jon-belt/jon-belt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-belt-68232888/)
+---
+[Connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/jonathan-belt-68232888/))
+---
+[![LinkedIn](https://example.com/path-to-linkedin-icon.png)](https://www.linkedin.com/in/jonathan-belt-68232888/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here I'll write a little description about my self and goals
+My development method first starts with documentation
+
+
+
