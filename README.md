@@ -30,3 +30,11 @@ I am a recent Computer Science graduate from the University of East Anglia, with
 <img align="left" alt="Linux" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
 <br />
+
+---
+
+###Current Projects
+
+🗺️ Web Based Map Maker Program
+📆 Sunset Tracker for Google Calendar
+⛳ Golf Course Location using Google Maps and Machine Learning
