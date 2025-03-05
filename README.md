@@ -36,6 +36,5 @@ I am a recent Computer Science graduate from the University of East Anglia, with
 ### Current Projects
 
 🗺️ Web Based Map Maker Program <br />
-📆 Sunset Tracker for Google Calendar <br />
 ⛳ Golf Course Location using Google Maps and Machine Learning <br />
 ⚓ Ship Based Combat Game
